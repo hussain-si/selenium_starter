@@ -11,9 +11,10 @@ public class App {
         ImdbRatings tests = new ImdbRatings(); // Initialize your test class
         // Image_URL tests =new Image_URL();
         // BookMyShow tests =new BookMyShow();
-        // BookMyShow tests =new BookMyShow();
-        // BookMyShow tests =new BookMyShow();
-
+        // NestedFrames tests =new NestedFrames();
+        // PostOnLinkedIn tests =new PostOnLinkedIn();
+        // Search_Amazon tests =new Search_Amazon();
+        // WindowHandle tests =new WindowHandle();
         // TODO: call your test case functions one after other here
 
         tests.testCase01();
